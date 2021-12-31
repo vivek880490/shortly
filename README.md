@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/66771124/146844620-4c117234-d569-4bc6-
 This repo contains code for a Short URl Service Coded In NODE JS !
 
 ## 1. USAGE
-This is an online URL shortener platform made by Ayush Kumar, Sourish Pal and Gaurav Kumar as the final project of Walkover University Program.
+
 The web application is a robust online testing platform for shortening URLs. The project is made over Node.js as backend, MongoDB as the  database, and HTML, CSS, JS, Boostrap4, and AJAX as frontend.
 
 A deployed version can be checked here: https://intiny.herokuapp.com/
