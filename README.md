@@ -26,14 +26,7 @@ A deployed version can be checked here: https://intiny.herokuapp.com/
 5. Every URL is unique to identify.
 6. Users can see the number of clickts through an UI featuring a chart.
 
-## Developers
-1. Ayush Kumar [https://github.com/ayushkumar6669]
-2. Sourish Pal [https://github.com/sourishpal2031]
-3. Gaurav Kumar [https://github.com/gaurav7070]
 
-* `Frontend + JavaScript Functionality` : ***Gaurav Kumar***
-* `Database + Backend` : ***Sourish Pal***
-* `Backend + Deployment` : ***Ayush Kumar***
 
 ## Tech Stack Used
 1. `Frontend` : EJS, CSS3, Javascript, Bootstrap, AJAX
